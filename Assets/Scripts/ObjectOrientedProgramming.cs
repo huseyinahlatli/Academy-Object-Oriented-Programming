@@ -4,7 +4,7 @@ using UnityEngine;
 public class ObjectOrientedProgramming : MonoBehaviour
 {
     private List<Alien> _monsters;
-    private Alien _alien;
+
     private void Start()
     {
         var dinosaur = new Dinosaur("Dinosaur Jack");
